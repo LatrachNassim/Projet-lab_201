@@ -1,0 +1,41 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+.concert-elt {
+  background-color: #2C8BE8;
+  color: white;
+  box-shadow: 2px 2px 2px 0 grey;
+  margin: 20px auto;
+  width: 400px;
+
+}
+
+
+  
+
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+.display-none {
+  display: none;
+}
+
+.update-btn{
+  background-color: #3DD2FF;
+  margin-right: .5rem;
+}
+
+.delete-btn{
+  background-color: #3DD2FF;
+}
+
